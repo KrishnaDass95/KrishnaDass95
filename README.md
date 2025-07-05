@@ -6,5 +6,4 @@ Senior Software QA Engineer with 8+ years of experience testing mobile, web, and
 - Languages: Python | Java | JavaScript
 - Tools: GitHub | TestRail | Zephyr | JIRA
 
-🌍 Actively seeking QA/SDET roles — remote or relocation.
 📫 Reach me: [LinkedIn](https://linkedin.com/in/krishna-dass)
