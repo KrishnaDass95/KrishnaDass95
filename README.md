@@ -7,4 +7,4 @@ Senior Software QA Engineer with 8+ years of experience testing mobile, web, and
 - Tools: GitHub | TestRail | Zephyr | JIRA
 
 🌍 Actively seeking QA/SDET roles — remote or relocation.
-📫 Reach me: krishdass95@gmail.com | [LinkedIn](https://linkedin.com/in/krishna-dass)
+📫 Reach me: [LinkedIn](https://linkedin.com/in/krishna-dass)
