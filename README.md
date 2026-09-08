@@ -2,7 +2,7 @@
 
 **Quality engineer for systems that are hard to test.**
 
-Nine years in QA, eight of them owning quality for a consumer GPS bike computer — 158,000+ devices shipped across three hardware generations. My work sits where firmware, embedded Android, wireless sensors and cloud sync meet, which is also where ordinary test automation quietly stops working.
+Nine years in QA, eight of them owning quality for a consumer GPS bike computer - 150,000+ devices shipped across three hardware generations. My work sits where firmware, embedded Android, wireless sensors and cloud sync meet, which is also where ordinary test automation quietly stops working.
 
 ---
 
