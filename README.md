@@ -13,4 +13,4 @@ Nine years in QA, eight of them owning quality for a consumer GPS bike computer 
 
 📍 Bangalore, India — open to relocation (EU / Australia) and remote roles
 
-✉️ krishdass95@gmail.com · [LinkedIn](https://www.linkedin.com/in/krishna-dass/)
+[LinkedIn](https://www.linkedin.com/in/krishna-dass/)
