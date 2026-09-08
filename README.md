@@ -10,11 +10,6 @@ Nine years in QA, eight of them owning quality for a consumer GPS bike computer 
 
 `Python` · `Pytest` · `Appium` · `ADB / Logcat` · `BLE & ANT+` · `Couchbase & Sync Gateway` · `Docker` · `GitHub Actions` · `Gradle` · `Git` · `Java` · `TestNg` · `Selenium` 
 
-### Currently
-
-Building a physical-device test harness from scratch — real Android hardware, self-hosted CI runner, BLE peripheral in the loop.
-
----
 
 📍 Bangalore, India — open to relocation (EU / Australia) and remote roles
 
